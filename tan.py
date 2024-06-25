@@ -1,0 +1,10 @@
+# print(int('42.7'))
+# print(int(42.7))
+# print(bool(5))
+# print(int(45.8))
+# print(list('python'))
+# print(type(4))
+# print(type({}))
+# print(set([4,5,6,5,4,3,5,3,4]))
+a = '3'
+a = int(a)
